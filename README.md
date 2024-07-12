@@ -8,7 +8,7 @@ In addition to the course's basic structure, this project includes the following
 
 - **Code Organization:** The code has been divided into separate files for better organization, readability, and maintenance.
 - **Environment Configuration:** Implementation of a `.env` file to manage environment variables, allowing easy switching between development and production modes.
-- **Mnemonic Phrase Input:** The user can now enter their own mnemonic phrase to generate the private key and wallet address.
+- **Mnemonic Phrase Confirmation:** The user must now confirm their mnemonic phrase to generate the private key and wallet address. 
 
 ### Installation
 
